@@ -27,35 +27,7 @@ Project này bao gồm các tài liệu sau:
 - Configuration files
 - Test commands
 
-### 3.5. 🗺️ [GEOJSON-UPDATE.md](./GEOJSON-UPDATE.md)
-**Chi tiết về cấu trúc GeoJSON**
-- So sánh Plain JSON vs GeoJSON
-- Backend implementation với GeoJSON
-- Frontend xử lý GeoJSON
-- Migration guide
-
-### 3.6. 🚀 [QUICK-START-GEOJSON.md](./QUICK-START-GEOJSON.md)
-**Quick start với GeoJSON**
-- 3 bước bắt đầu
-- Testing GeoJSON API
-- Troubleshooting guide
-
-### 3.7. 📝 [UPDATE-SUMMARY.md](./UPDATE-SUMMARY.md)
-**Tóm tắt cập nhật GeoJSON**
-- Danh sách files đã update
-- Breaking changes
-- Migration timeline
-- Next steps
-
-### 4. 🚀 [setup.sh](./setup.sh)
-**Automated setup script**
-- Tự động tạo Rails project
-- Setup PostgreSQL + PostGIS
-- Generate models & controllers
-- Create seed data
-- One-command setup!
-
-### 5. 📖 [project_overview.md](./project_overview.md)
+### 4. 📖 [project_overview.md](./project_overview.md)
 **Tổng quan dự án**
 - Mục tiêu hệ thống
 - Kiến trúc tổng thể
